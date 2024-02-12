@@ -1,0 +1,10 @@
+100#Kit#Male#Cat#Persian#Brown#102500#JANUARY#1#1998#25#
+101#Mike#Male#Dog#Askal#Black#100300#JANUARY#1#1997#26#
+102#Caps#Male#Dog#Bulldog#Black#811000#AUGUST#11#1999#24#
+103#Sparkles#Male#Dog#Askal#Cream#320000#MARCH#20#2000#23#
+104#Aya#Male#Bird#Persian#Blue#914000#SEPTEMBER#14#2000#23#
+105#Jankos#Male#Fish#Siberian#Blonde#915000#SEPTEMBER#15#2000#23#
+106#Skye#Male#Dog#Askal#Brown#922000#SEPTEMBER#22#2000#23#
+107#Bob#Male#Bird#Persian#Black#208000#FEBRUARY#8#2001#22#
+108#Jin#Female#Cat#Persian#Cream#801000#AUGUST#1#2001#22#
+109#Kazuya#Female#Cat#Python##250000#JANUARY#1#1971#52#
